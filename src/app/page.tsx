@@ -65,8 +65,8 @@ export default function Home() {
         className={`${styles.boxWidth} ${styles.paddingX} mx-auto py-12 relative`}
       >
         <Dot className="bg-gradient-to-tl from-[#377DFF] to-[#6893e3] top-[32%]" />
-        <Dot className="bg-gradient-to-tl from-[#377DFF] to-[#6893e3] -right-2 top-[60%]" />
-        <Dot className="bg-gradient-to-tl from-[#F62424] to-[#FF8E8E] -right-16" />
+        <Dot className="bg-gradient-to-tl from-[#377DFF] to-[#6893e3] right-2 md:-right-2 top-[60%]" />
+        <Dot className="bg-gradient-to-tl from-[#F62424] to-[#FF8E8E] right-1 md:-right-16" />
         <div className={`${styles.flexStart} py-4 md:py-12`}>
           <div className="text-center">
             <h1 className="font-extrabold text-[24px] md:text-[48px]">
@@ -161,7 +161,7 @@ export default function Home() {
 
       {/* WHAT WE DO SECTION */}
       <section
-        className={`${styles.boxWidth} ${styles.paddingY} mx-auto my-12`}
+        className={`${styles.boxWidth} ${styles.paddingX} ${styles.paddingY} mx-auto my-12`}
       >
         <div className="flex flex-col md:flex-row items-center">
           <div className="flex flex-1 flex-col items-center md:items-start">
