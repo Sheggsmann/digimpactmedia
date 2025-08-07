@@ -38,14 +38,14 @@ export default function Home() {
     {
       content:
         "DigImpact Media helped me grow my personal brand from scratch. Their one-on-one strategy sessions and ad campaigns gave me direction, confidence, and visibility. I now have a clear content plan and my audience is finally growing organically!",
-      user: "Amira Johnson",
+      user: "Amara",
       job: "Lifestyle & Wellness Influencer",
       image: user1Pic,
     },
     {
       content:
         "From launch to growth, DigImpact Media was instrumental. Their Go-to-Market strategy and 30-day growth support gave our startup the momentum it needed. Clear reporting, smart creatives, and real ROI — they felt like an extension of our team.",
-      user: "Priya Desai",
+      user: "Afolabi Esther",
       job: "Tech Startup Founder (Fintech)",
       image: user2Pic,
     },

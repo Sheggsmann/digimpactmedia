@@ -39,7 +39,8 @@ export default function ContactUs() {
               <h1 className="font-bold text-lg">Location</h1>
               <div className="h-1 bg-black my-2 w-[27px]"></div>
               <h1 className="font-bold text-lg">
-                Lagos, Nigeria | Remote, Global
+                36 TUNJI BELLO STREET, AJAH. <br />
+                LAGOS, NIGERIA.
               </h1>
               <p className="mt-4 font-normal text-sm">
                 Assistance hours: <br />

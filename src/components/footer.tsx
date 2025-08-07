@@ -68,7 +68,9 @@ export default function Footer() {
                 +234 815 180 4402
               </li>
               <li className="font-semibold text-base mr-10 cursor-pointer text-white">
-                Lagos, Nigeria | Remote, Global
+                36 TUNJI BELLO STREET, AJAH.
+                <br />
+                LAGOS, NIGERIA.
               </li>
             </ul>
           </div>
@@ -77,7 +79,8 @@ export default function Footer() {
             <p className="text-[#808080] text-sm font-bold mb-6">ADDRESS</p>
             <ul className="flex flex-col gap-y-6">
               <li className="font-semibold text-base mr-10 cursor-pointer text-white">
-                Lagos, Nigeria | Remote, Global
+                36 TUNJI BELLO STREET, AJAH. <br />
+                LAGOS, NIGERIA.
               </li>
             </ul>
           </div>
