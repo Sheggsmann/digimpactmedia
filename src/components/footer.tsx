@@ -65,7 +65,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li className="font-semibold text-base mr-10 cursor-pointer text-white">
-                +234 701 234 5678
+                +234 815 180 4402
               </li>
               <li className="font-semibold text-base mr-10 cursor-pointer text-white">
                 Lagos, Nigeria | Remote, Global

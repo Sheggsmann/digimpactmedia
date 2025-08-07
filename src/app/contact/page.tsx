@@ -28,7 +28,7 @@ export default function ContactUs() {
               <div>
                 <h1 className="font-bold text-lg">Number</h1>
                 <div className="h-1 bg-black my-2 w-[27px]"></div>
-                <h1 className="font-bold text-lg">+234 701 234 5678</h1>
+                <h1 className="font-bold text-lg">+234 815 180 4402</h1>
                 <p className="mt-4 font-normal text-sm">
                   Assistance hours: <br />
                   Mongay - Friday 6am to 8pm EST
