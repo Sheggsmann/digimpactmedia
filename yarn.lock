@@ -2482,7 +2482,7 @@ pretty-format@^27.0.2:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-prop-types@^15.7.2, prop-types@^15.8.1:
+prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -2518,13 +2518,6 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-js-switch@^1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/react-js-switch/-/react-js-switch-1.1.6.tgz#0b098761a30e57ce5c379fcad0604268f70b39e1"
-  integrity sha512-2FxJeXPIhnH+FCeWcN5s/BG1OeL8PVak6/tZ1F5F3snvraUPakVsUhLwJ40mM9juatHUDuERVOOELsjUBxre5w==
-  dependencies:
-    request-animation-number "^1.0.6"
-
 react-paystack@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/react-paystack/-/react-paystack-6.0.0.tgz#6f0cc3c8dd9ac3b1a5aefa212ee57471f0c3e147"
@@ -2532,13 +2525,6 @@ react-paystack@^6.0.0:
   dependencies:
     "@paystack/inline-js" "^2.19.2"
     "@testing-library/dom" "^10.4.0"
-
-react-switch@^7.1.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/react-switch/-/react-switch-7.1.0.tgz#5318f4745b83793fecbca16c49ba62da485a550b"
-  integrity sha512-4xVeyImZE8QOTDw2FmhWz0iqo2psoRiS7XzdjaZBCIP8Dzo3rT0esHUjLee5WsAPSFXWWl1eVA5arp9n2C6yQA==
-  dependencies:
-    prop-types "^15.7.2"
 
 react@19.1.0:
   version "19.1.0"
@@ -2570,11 +2556,6 @@ regexp.prototype.flags@^1.5.3, regexp.prototype.flags@^1.5.4:
     get-proto "^1.0.1"
     gopd "^1.2.0"
     set-function-name "^2.0.2"
-
-request-animation-number@^1.0.6:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/request-animation-number/-/request-animation-number-1.0.8.tgz#2591cec4b21cd5cddf0d356a0486a288269d24d4"
-  integrity sha512-t/9G8TrTzE5GBWXiQuOTeNEkiGqfv0JRac/6KMzNlTy0i01IgQxJ6G78b4cI+nHg38ZAeUScUT/gY6p6ww/SOw==
 
 resolve-from@^4.0.0:
   version "4.0.0"
